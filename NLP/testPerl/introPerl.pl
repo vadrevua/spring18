@@ -10,15 +10,13 @@
 #$array_size = @array;
 #print $array_size . "\n";
 
-#!/usr/local/bin/perl –w
-
-@unsortedArray = (3,10,76,23,1,54);
-@sortedArray = sort numeric @unsortedArray;
-
-# prints 3 10 76 23 1 54
-print "@unsortedArray\n";
-
-# prints 1 3 10 23 54 76
-print "@sortedArray\n";
-
-sub numeric { $a <=> $b }
+#!/usr/local/bin/perl
+while(<>) {
+      chomp;
+      @words = split/\s+/;
+       foreach $word(@words) {
+             if($word=~s/ing$/ed/) {
+							print "$word\n";
+						 }
+       }
+}

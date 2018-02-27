@@ -1,0 +1,93 @@
+3 perspectives for nlp-
+linguistic
+engineering
+cognitive
+
+Turing proposed solution-
+fool human to convice machine was also human
+
+name and describe objections from turing paper
+
+Chinese room argument
+
+who is eliza
+rogerian psychotherapist
+
+2 main things community focus on to get computer to learn-
+chatbot / playing chess
+
+what is a companionable agent-
+Companions for people.
+
+write a regex to identify duplicate words in text-
+/\b(\w)\b\1\b/
+
+metrics used to analyze agatha christies writing
+
+nlp applications that use ngrams-
+chatbots, sentence generators
+
+how does it use the ngrams
+
+chain rule-
+decompose the probablity into a product of component probabilties
+why use-
+identify a join probablity
+
+markov Assumption
+why use - sparseness
+
+what is trigram assumption equation-
+P(I/<s><s>)*
+P(knew|<s>I)*
+P(who|I knew)*
+...
+P(then|times since)*
+P(<e>|since then)
+
+prob. speaks given she
+add-one smoothing- speaks given she
+
+good Turing- whittenbell smoothing
+
+continguous/non-continguous
+non- some words inbetween ngrams
+continguous- words have to be right next to eachother
+
+when non is useful-
+Dataset is small
+
+non is not useful-
+large dataset, spell check
+
+stoplist and why-
+use cause they dont provide any content
+
+not use one-
+help with syntax information, and spell check
+
+association measures-
+Ratio of (how often we saw something occur & how often we expect it to occur based on random)
+
+how did turney use association measures to determine wheter a review was positive or negative
+looked at number of positive words and negative words.
+
+Entropy
+
+bayes theroem ***************WILL be on midterm***************
+why use- pos tags given words and pos tags, identifying y in the corpus is difficult
+
+Look at 4 step process and memorize the psychotherapist
+bayes
+removed denominator
+Assumption 1
+assumption 2: markov
+
+fequency tables for pos tagging
+
+
+
+bayes markov chain and why | understand pos tagging, estimation | regex
+20 q 5pts
+
+Short answer

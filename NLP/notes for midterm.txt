@@ -80,7 +80,7 @@ why use- pos tags given words and pos tags, identifying y in the corpus is diffi
 Look at 4 step process and memorize the psychotherapist
 bayes
 removed denominator
-Assumption 1
+Assumption 1: words are independent of tags
 assumption 2: markov
 
 fequency tables for pos tagging

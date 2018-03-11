@@ -7,8 +7,9 @@
 (list '(4(7 22) "art" ("math" (8) 99) 100))
 
 ;---------------Question 2 ---------------------;
-;(define q (lambda ())) What does it mean by passing in function, what about other functions
-; should I create new functions and call them in a lambda
+;(define q (lambda (func L)
+;            (if (null? L) L
+;            (q func;;
 
 ;---------------Question 3 ---------------------;
 

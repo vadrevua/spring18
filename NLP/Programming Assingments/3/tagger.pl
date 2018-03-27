@@ -3,12 +3,29 @@
 #POS Tagger Due 3/12/18
 #CMSC 416
 
-#ALGORITHM OVERVIEW: I first check to see if the input from the command line is satisfactory and then proceed to process the first file that is inputted.
+#ALGORITHM OVERVIEW:
+# I first check to see if the input from the command line is satisfactory and then proceed to process the first file that is inputted.
 #The first file I split by [] and white spaces and store it into an array called @inputWords
 #Then I take that array and split the values into tags and words and store them into a hash sorted by words=>tags
 #After that I read in the test file and split words by [] and white spaces
 #Then I read in each word in the array
 #I apply some rules and some tag values if needed then print word with tags.
+
+#SAMPLE INPUT:
+#perl tagger.pl pos-train.txt pos-test.txt>pos-test-with-tags.txt
+#perl tagger.pl *Training file* *Testing File*
+
+#SAMPLE OUTPUT:
+# No/DT
+# ,/,
+# it/PRP
+# was/VBD
+# n't/RB
+# Black/NNP
+# Monday/NNP
+# ./.
+# But/CC
+
 use strict;
 use warnings;
 use Data::Dumper qw(Dumper); #to print out hash for debugging purposes

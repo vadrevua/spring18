@@ -1,0 +1,372 @@
+
+line-n.w8_059:8174	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_059:8174	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w7_098:12684	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_098:12684	Feature: Before, Log-Likelyhood Score: 1.64865862558738, Prediction: product
+
+line-n.w8_106:13309	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_106:13309	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w9_40:10187	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_40:10187	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_16:217	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_16:217	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_119:16927	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_119:16927	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_008:13756	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_008:13756	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_041:15186	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_041:15186	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.art7} aphb 05601797	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 05601797	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_119:2964	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_119:2964	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_040:13652	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_040:13652	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w7_122:2194	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_122:2194	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.art7} aphb 45903907	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 45903907	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 43602625	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 43602625	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_034:3995	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_034:3995	Feature: Before, Log-Likelyhood Score: 0.693147180559945, Prediction: product
+
+line-n.w8_139:696	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_139:696	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 20801955	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 20801955	Feature: Before, Log-Likelyhood Score: -1.6094379124341, Prediction: phone
+
+line-n.w8_028:3156	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_028:3156	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 19600919	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 19600919	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_111:8071	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_111:8071	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_041:4840	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_041:4840	Feature: Before, Log-Likelyhood Score: 0.693147180559945, Prediction: product
+
+line-n.w7_074:3928	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_074:3928	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_049:15000	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_049:15000	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_086:3306	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_086:3306	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_8:1533	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_8:1533	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_042:5289	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_042:5289	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w7_041:11151	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_041:11151	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_059:9261	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_059:9261	Feature: Before, Log-Likelyhood Score: -2.70805020110221, Prediction: phone
+
+line-n.w9_6:10969	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_6:10969	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.art7} aphb 41702230	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 41702230	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_004:1365	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_004:1365	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 26902918	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 26902918	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 37804749	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 37804749	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_6:2907	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_6:2907	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_106:10827	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_106:10827	Feature: Before, Log-Likelyhood Score: 0.693147180559945, Prediction: product
+
+line-n.art7} aphb 02400926	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 02400926	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_107:12000	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_107:12000	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_087:620	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_087:620	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 30203503	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 30203503	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_40:10216	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_40:10216	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 24500349	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 24500349	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 02200986	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 02200986	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_024:3051	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_024:3051	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_023:17827	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_023:17827	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w8_142:13364	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_142:13364	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_083:14895	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_083:14895	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_117:10197	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_117:10197	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w8_013:14047	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_013:14047	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_019:14634	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_019:14634	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_017:6376	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_017:6376	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 24900680	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 24900680	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_021:3496	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_021:3496	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_13:9355	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_13:9355	Feature: Before, Log-Likelyhood Score: -2.70805020110221, Prediction: phone
+
+line-n.w8_098:13314	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_098:13314	Feature: Before, Log-Likelyhood Score: 0.693147180559945, Prediction: product
+
+line-n.w8_064:14051	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_064:14051	Feature: Before, Log-Likelyhood Score: -0.693147180559945, Prediction: phone
+
+line-n.w7_107:7711	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_107:7711	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_40:10241	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_40:10241	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_111:6250	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_111:6250	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w9_31:14204	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_31:14204	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_20:7066	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_20:7066	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_027:13714	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_027:13714	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_006:6674	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_006:6674	Feature: Before, Log-Likelyhood Score: -0.693147180559945, Prediction: phone
+
+line-n.w7_080:1471	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_080:1471	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_124:728	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_124:728	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_083:9304	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_083:9304	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_019:4936	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_019:4936	Feature: Before, Log-Likelyhood Score: 0.693147180559945, Prediction: product
+
+line-n.w9_17:14207	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_17:14207	Feature: Before, Log-Likelyhood Score: 0.693147180559945, Prediction: product
+
+line-n.w7_093:5547	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_093:5547	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_085:427	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_085:427	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_112:2163	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_112:2163	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_115:6602	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_115:6602	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w8_081:8566	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_081:8566	Feature: Before, Log-Likelyhood Score: 1.64865862558738, Prediction: product
+
+line-n.w8_104:2916	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_104:2916	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w7_050:15645	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_050:15645	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_033:3398	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_033:3398	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w9_8:3899	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_8:3899	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 37805623	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 37805623	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_016:14692	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_016:14692	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_107:826	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_107:826	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_002:18532	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_002:18532	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_102:12660	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_102:12660	Feature: Before, Log-Likelyhood Score: 1.64865862558738, Prediction: product
+
+line-n.w8_002:7541	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_002:7541	Feature: Before, Log-Likelyhood Score: 1.6094379124341, Prediction: product
+
+line-n.w8_063:10855	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_063:10855	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 18601882	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 18601882	Feature: Before, Log-Likelyhood Score: -2.70805020110221, Prediction: phone
+
+line-n.w9_7:13171	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_7:13171	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_32:1867	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_32:1867	Feature: Before, Log-Likelyhood Score: 0.693147180559945, Prediction: product
+
+line-n.w9_29:3437	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_29:3437	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_019:18445	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_019:18445	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 45700442	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 45700442	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_067:14552	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_067:14552	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_053:16416	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_053:16416	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_12:680	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_12:680	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_8:1503	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_8:1503	Feature: Before, Log-Likelyhood Score: -1.6094379124341, Prediction: phone
+
+line-n.w7_066:3322	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_066:3322	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_100:4429	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_100:4429	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_104:8687	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_104:8687	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 54101892	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 54101892	Feature: Before, Log-Likelyhood Score: 0.693147180559945, Prediction: product
+
+line-n.w8_038:1345	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_038:1345	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_126:14239	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_126:14239	Feature: Before, Log-Likelyhood Score: 0.693147180559945, Prediction: product
+
+line-n.w9_30:3935	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_30:3935	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_18:11863	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_18:11863	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_003:16519	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_003:16519	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.art7} aphb 29604729	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.art7} aphb 29604729	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_38:10638	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_38:10638	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_046:6144	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_046:6144	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_098:14382	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_098:14382	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_074:4317	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_074:4317	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w7_011:18280	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_011:18280	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w8_053:3883	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_053:3883	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_040:16402	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_040:16402	Feature: Before, Log-Likelyhood Score: 0.693147180559945, Prediction: product
+
+line-n.w7_065:13727	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_065:13727	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w8_007:14740	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_007:14740	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w8_011:260	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_011:260	Feature: Before, Log-Likelyhood Score: 0.693147180559945, Prediction: product
+
+line-n.w7_003:8955	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_003:8955	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w8_011:298	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_011:298	Feature: Before, Log-Likelyhood Score: -1.09861228866811, Prediction: phone
+
+line-n.w7_122:11595	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_122:11595	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w9_1:4358	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w9_1:4358	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_108:11591	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_108:11591	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_065:17112	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_065:17112	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_070:8114	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_070:8114	Feature: Before, Log-Likelyhood Score: -3.40119738166216, Prediction: phone
+
+line-n.w8_011:13061	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_011:13061	Feature: Before, Log-Likelyhood Score: 1.64865862558738, Prediction: product
+
+line-n.w7_100:15579	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_100:15579	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w7_071:6321	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w7_071:6321	Feature: Before, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+
+line-n.w8_110:14049	Feature: After, Log-Likelyhood Score: 0, Prediction: Cannot Predict
+line-n.w8_110:14049	Feature: Before, Log-Likelyhood Score: -2.70805020110221, Prediction: phone

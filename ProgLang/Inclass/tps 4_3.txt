@@ -1,0 +1,12 @@
+void change(int*ptr){
+  *ptr = *ptr +2
+}
+
+int main(){
+int num, *ptr;
+ptr = &num;
+num = 5;
+change(ptr);
+printf("%d",*ptr);
+return 0;
+}

@@ -1,0 +1,81 @@
+Chain rule why- sparseness
+Markov Assumption- limited history and sparseness
+why bayes- probability of finding y is harder than finding x due to sparseness
+
+similarity and relatedness
+dont need to know the formula
+  know differences and info needed to calculate
+  applications that would be unsuccessfully
+word sense disambiguation
+  Naive Bayes
+  Decision List
+      Fill in chart
+        bayes rule
+        denominator same
+        naive assumption
+
+
+feature given a sense
+decision lists rank
+  describe process of discion list
+formula to determine
+  log Likelyhood
+
+features for wsd
+  AND WHY
+
+intrinsic evaluation - Accuracy
+Information Retrieval
+  AD HOC - describe
+      draw picture
+
+how do we go about representing
+  collection of features
+
+  elements in features
+    frequency/ 1's and 0's
+    idf vectors - not formula
+
+query-query processing-search - create feature vector
+
+expand this query and state the nlp tool
+    WSD- kids - doggy
+    stemming
+    word similarity
+
+how do we return relevant documents- distance and cosine similarity
+
+nlp system canine teeth/dog
+wsd
+
+semantic similarity and relatedness
+
+eval of IR
+precision and recall know formula
+
+Know about mean Average Precision
+
+limitations of precision and recall- limitations are doesn't account for ranking, but mean average Precision
+
+MAP: incorporating ranking into precision (not Recall)
+
+
+Decision List-
+features from training corpus
+rank based on log Likelyhood
+
+
+ORDER OF TEST:
+chain rule- and why
+markov assumption- and why
+Bayes rule - formula
+semantic - 2 types of similarity, where u use similarity and relatedness
+WSD - fill in chart, decision lists, log Likelyhood
+information Retrieval- high level view of system. representing docs and queries.
+
+
+Formulas we must know:
+    chain troubles
+    markov assumption
+    Bayes
+    Log Likelyhood

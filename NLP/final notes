@@ -1,0 +1,36 @@
+Bayes rule formula
+
+Cosine function
+
+Question answering with IR system.
+  What techniques could you use to reformulate query
+  how would you know what type of answer should be return,
+    named entity recognition.
+query answer composition method, query reformulation method
+
+summarization
+single vs multi documents
+  redundancy with multi
+  single may also have redundancy, but not as much
+  Extraction
+  Abstraction
+
+TF-IDF
+  Saliency
+
+  **How does cosine work** going to be on the exam
+
+Sentiment Analysis
+classed as a classification task
+Calculate probability using Naive Bayes
+P(positive|negative)/total words
+S = argmax P(s|f) - (Sparsity)
+  We can decompose
+    Bayes rule
+    Denominator same
+    Naive assumption- Condititionally indipendent
+
+Calculate Feature given sense***
+
+
+    

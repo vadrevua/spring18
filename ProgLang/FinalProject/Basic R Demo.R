@@ -9,19 +9,19 @@ b <- 5
 #Arrays/Vectors
 x <- c(1,9,3,4)
 
-x[1]
-x[2]
+x[1] #output is 1
+x[2] #output is 9
 
-class(a)
-class(x)
+class(a) #output is Numeric
+class(x) #output is Numeric
 
 
 
 median(y = 0:10)
-y
+y #error
 
 median(y <- 1:10)
-y
+y #5.5
 
 
 
@@ -46,7 +46,7 @@ hist(carData$Horsepower, main = "Horsepower Distribution of Cars")
 
 plot(x = carData$MPG, y = carData$Horsepower)
 
-install.packages("ggplot2")
+#install.packages("ggplot2")
 library(ggplot2)
 
 #histogram
@@ -59,7 +59,7 @@ ggplot(carData, aes(y = Horsepower, x = MPG)) + geom_point() +
   geom_text(aes(label=Car), size = 3)
 
 
-install.packages("dplyr")
+#install.packages("dplyr")
 library(dplyr)
 
 sampleCars <- sample_n(carData,20)
@@ -67,12 +67,12 @@ sampleCars <- sample_n(carData,20)
 ggplot(sampleCars, aes(y = Horsepower, x = MPG)) + geom_point() + 
   geom_text(aes(label=Car), size = 3)
 
-install.packages("DT")
+#install.packages("DT")
 library(DT)
 
 datatable(carData, options = list(pageLength = 10))
 
-install.packages("metricsgraphics")
+#install.packages("metricsgraphics")
 library(metricsgraphics)
 
 mjs_plot(carData, x=MPG, y=Horsepower) %>%
